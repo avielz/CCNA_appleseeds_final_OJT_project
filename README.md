@@ -9,6 +9,7 @@ the project includes:
 
 Packet Tracer is a cross-platform visual simulation tool designed by Cisco Systems that allows users to create network topologies and imitate modern computer networks. The software allows users to simulate the configuration of Cisco routers and switches using a simulated command line interface. 
 https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer
+https://www.netacad.com/portal/resources/packet-tracer
 
 The CCNA program included 3 CCNA cisco courses:
 https://www.netacad.com/courses/networking
